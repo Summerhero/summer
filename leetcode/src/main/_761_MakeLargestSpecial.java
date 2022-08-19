@@ -6,5 +6,5 @@ package main;
  * @Description 761. 特殊的二进制序列
  *              https://leetcode.cn/problems/special-binary-string/
  */
-public class MakeLargestSpecial {
+public class _761_MakeLargestSpecial {
 }

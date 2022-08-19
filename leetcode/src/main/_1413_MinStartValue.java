@@ -6,7 +6,7 @@ package main;
  * @Description 1413. 逐步求和得到正数的最小值
  *              https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/
  */
-public class MinStartValue {
+public class _1413_MinStartValue {
 
     public static void main(String[] args) {
 
